@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb4d3962.chunk.css",
-    "main.js": "/static/js/main.319e65e7.chunk.js",
-    "main.js.map": "/static/js/main.319e65e7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.77953f2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.77953f2b.js.map",
+    "main.css": "/static/css/main.39f0f3bb.chunk.css",
+    "main.js": "/static/js/main.15385788.chunk.js",
+    "main.js.map": "/static/js/main.15385788.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.796ca3c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.796ca3c2.js.map",
     "static/css/2.f0280b8b.chunk.css": "/static/css/2.f0280b8b.chunk.css",
-    "static/js/2.86f7e2d9.chunk.js": "/static/js/2.86f7e2d9.chunk.js",
-    "static/js/2.86f7e2d9.chunk.js.map": "/static/js/2.86f7e2d9.chunk.js.map",
-    "static/js/3.14e2cdee.chunk.js": "/static/js/3.14e2cdee.chunk.js",
-    "static/js/3.14e2cdee.chunk.js.map": "/static/js/3.14e2cdee.chunk.js.map",
+    "static/js/2.90e79600.chunk.js": "/static/js/2.90e79600.chunk.js",
+    "static/js/2.90e79600.chunk.js.map": "/static/js/2.90e79600.chunk.js.map",
+    "static/js/3.4d45c48e.chunk.js": "/static/js/3.4d45c48e.chunk.js",
+    "static/js/3.4d45c48e.chunk.js.map": "/static/js/3.4d45c48e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f0280b8b.chunk.css.map": "/static/css/2.f0280b8b.chunk.css.map",
-    "static/css/main.eb4d3962.chunk.css.map": "/static/css/main.eb4d3962.chunk.css.map",
-    "static/js/2.86f7e2d9.chunk.js.LICENSE.txt": "/static/js/2.86f7e2d9.chunk.js.LICENSE.txt",
+    "static/css/main.39f0f3bb.chunk.css.map": "/static/css/main.39f0f3bb.chunk.css.map",
+    "static/js/2.90e79600.chunk.js.LICENSE.txt": "/static/js/2.90e79600.chunk.js.LICENSE.txt",
     "static/media/02.png": "/static/media/02.c91e3d62.png",
     "static/media/03.png": "/static/media/03.5a09709d.png",
     "static/media/04.png": "/static/media/04.b849666e.png",
@@ -56,6 +56,8 @@
     "static/media/bg-homeheader.png": "/static/media/bg-homeheader.df11ddc6.png",
     "static/media/cart_img.png": "/static/media/cart_img.d69a6add.png",
     "static/media/fingerprint.png": "/static/media/fingerprint.c32c2de6.png",
+    "static/media/item1.png": "/static/media/item1.0fef2fe7.png",
+    "static/media/item3.png": "/static/media/item3.6a985378.png",
     "static/media/lg-logo.png": "/static/media/lg-logo.6e17e253.png",
     "static/media/logo.png": "/static/media/logo.25ec5051.png",
     "static/media/product_large.png": "/static/media/product_large.16606163.png",
@@ -66,10 +68,10 @@
     "static/media/slide-01.png": "/static/media/slide-01.5f6bcad9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.77953f2b.js",
+    "static/js/runtime-main.796ca3c2.js",
     "static/css/2.f0280b8b.chunk.css",
-    "static/js/2.86f7e2d9.chunk.js",
-    "static/css/main.eb4d3962.chunk.css",
-    "static/js/main.319e65e7.chunk.js"
+    "static/js/2.90e79600.chunk.js",
+    "static/css/main.39f0f3bb.chunk.css",
+    "static/js/main.15385788.chunk.js"
   ]
 }
