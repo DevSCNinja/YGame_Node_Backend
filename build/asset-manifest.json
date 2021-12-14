@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb1e47a2.chunk.css",
-    "main.js": "/static/js/main.45a731a6.chunk.js",
-    "main.js.map": "/static/js/main.45a731a6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.796ca3c2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.796ca3c2.js.map",
+    "main.css": "/static/css/main.ce54d465.chunk.css",
+    "main.js": "/static/js/main.88312d37.chunk.js",
+    "main.js.map": "/static/js/main.88312d37.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.171ebca9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.171ebca9.js.map",
     "static/css/2.f0280b8b.chunk.css": "/static/css/2.f0280b8b.chunk.css",
-    "static/js/2.90e79600.chunk.js": "/static/js/2.90e79600.chunk.js",
-    "static/js/2.90e79600.chunk.js.map": "/static/js/2.90e79600.chunk.js.map",
-    "static/js/3.4d45c48e.chunk.js": "/static/js/3.4d45c48e.chunk.js",
-    "static/js/3.4d45c48e.chunk.js.map": "/static/js/3.4d45c48e.chunk.js.map",
+    "static/js/2.c33cb5e6.chunk.js": "/static/js/2.c33cb5e6.chunk.js",
+    "static/js/2.c33cb5e6.chunk.js.map": "/static/js/2.c33cb5e6.chunk.js.map",
+    "static/js/3.854f419b.chunk.js": "/static/js/3.854f419b.chunk.js",
+    "static/js/3.854f419b.chunk.js.map": "/static/js/3.854f419b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f0280b8b.chunk.css.map": "/static/css/2.f0280b8b.chunk.css.map",
-    "static/css/main.cb1e47a2.chunk.css.map": "/static/css/main.cb1e47a2.chunk.css.map",
-    "static/js/2.90e79600.chunk.js.LICENSE.txt": "/static/js/2.90e79600.chunk.js.LICENSE.txt",
+    "static/css/main.ce54d465.chunk.css.map": "/static/css/main.ce54d465.chunk.css.map",
+    "static/js/2.c33cb5e6.chunk.js.LICENSE.txt": "/static/js/2.c33cb5e6.chunk.js.LICENSE.txt",
     "static/media/02.png": "/static/media/02.c91e3d62.png",
     "static/media/03.png": "/static/media/03.5a09709d.png",
     "static/media/04.png": "/static/media/04.b849666e.png",
@@ -42,6 +42,8 @@
     "static/media/ROBLOX25.png": "/static/media/ROBLOX25.dad39bbe.png",
     "static/media/ROBLOX40.png": "/static/media/ROBLOX40.6bf99e4e.png",
     "static/media/ROBLOX60.png": "/static/media/ROBLOX60.a50ea7bc.png",
+    "static/media/Rectangle 41.png": "/static/media/Rectangle 41.772b808f.png",
+    "static/media/Rectangle 43.png": "/static/media/Rectangle 43.09df0a66.png",
     "static/media/Rectangle.png": "/static/media/Rectangle.80bc7832.png",
     "static/media/VALORANR100.png": "/static/media/VALORANR100.fe34384d.png",
     "static/media/VALORANR50.png": "/static/media/VALORANR50.29d611dc.png",
@@ -68,10 +70,10 @@
     "static/media/slide-01.png": "/static/media/slide-01.5f6bcad9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.796ca3c2.js",
+    "static/js/runtime-main.171ebca9.js",
     "static/css/2.f0280b8b.chunk.css",
-    "static/js/2.90e79600.chunk.js",
-    "static/css/main.cb1e47a2.chunk.css",
-    "static/js/main.45a731a6.chunk.js"
+    "static/js/2.c33cb5e6.chunk.js",
+    "static/css/main.ce54d465.chunk.css",
+    "static/js/main.88312d37.chunk.js"
   ]
 }
